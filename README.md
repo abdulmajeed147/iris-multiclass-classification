@@ -39,8 +39,6 @@ Evaluation Results
 
 Both models correctly classified 28 out of 30 test samples.
 
-Both models correctly classified 28 out of 30 test samples.
-
 Technologies
 
 - Python
