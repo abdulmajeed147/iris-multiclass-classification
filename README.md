@@ -2,7 +2,7 @@ Iris Multi-Class Classification Benchmark
 
 Project Overview
 
-This project implements a multi-class classification pipeline using the Iris flower dataset. Two machine learning algorithms, Logistic Regression and Decision Tree, are trained and evaluated to compare their performance.
+A multi-class classification project using the Iris flower dataset to compare Logistic Regression and Decision Tree algorithms.
 
 Dataset
 
@@ -12,7 +12,7 @@ Dataset
 - Training samples: 120
 - Testing samples: 30
 
-Machine Learning Models
+Models
 
 1. Logistic Regression
 2. Decision Tree Classifier
@@ -22,9 +22,9 @@ Methodology
 - Data loading and exploration
 - Feature and target separation
 - 80/20 train-test split
-- Feature scaling using StandardScaler for Logistic Regression
+- StandardScaler for Logistic Regression
 - Model training and prediction
-- Performance evaluation
+- Evaluation using Accuracy, Precision, Recall and F1-score
 - Confusion matrix visualization
 - Benchmark comparison
 
@@ -38,9 +38,7 @@ F1-Score| 93.33%| 93.33%
 
 Both models correctly classified 28 out of 30 test samples.
 
-Both models correctly classified 28 out of 30 test samples.
-
-Technologies Used
+Technologies
 
 - Python
 - Pandas
@@ -52,15 +50,15 @@ Technologies Used
 
 Project Files
 
-- "Iris_Classification_Datathon.ipynb" — Complete Jupyter Notebook
-- "iris.txt" — Iris dataset
+- "Iris_Classification_Datathon.ipynb"
+- "iris.txt"
 
 Conclusion
 
-Both classification models achieved identical performance on the test dataset, with 93.33% accuracy. This project demonstrates a complete multi-class classification and model benchmarking workflow.
+Both classification models achieved identical performance, with 93.33% accuracy on the test dataset.
 
 Author
 
 Abdul Majeed
 
-Project: Datheon Machine Learning & Data Science Internship
+Datheon Machine Learning & Data Science Internship
