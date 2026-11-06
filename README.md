@@ -30,11 +30,12 @@ Methodology
 
 Evaluation Results
 
-Metric| Logistic Regression| Decision Tree
-Accuracy| 93.33%| 93.33%
-Precision| 93.33%| 93.33%
-Recall| 93.33%| 93.33%
-F1-Score| 93.33%| 93.33%
+| Metric | Logistic Regression | Decision Tree |
+|---|---:|---:|
+| Accuracy | 93.33% | 93.33% |
+| Precision | 93.33% | 93.33% |
+| Recall | 93.33% | 93.33% |
+| F1-Score | 93.33% | 93.33% |
 
 Both models correctly classified 28 out of 30 test samples.
 
